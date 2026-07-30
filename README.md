@@ -22,5 +22,5 @@ I bridge the gap between software development and security. I build tools to aut
 * **Hands-on Practice:** [My TryHackMe Profile](https://tryhackme.com/p/Emjay00)
 
 ## 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com](www.linkedin.com/in/mojalefa-nkwana-05a2b6352)
+* **LinkedIn:** [Mojalefa Nkwana](https://www.linkedin.com/in/mojalefa-nkwana-05a2b6352/)
 * **Email:** [mojalefa.nkwana00@gmail.com](mailto:mojalefa.nkwana00@gmail.com)
