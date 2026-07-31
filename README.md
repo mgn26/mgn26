@@ -13,8 +13,8 @@ I bridge the gap between software development and security. I build tools to aut
 ## 🛠️ Technical Toolkit
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | C, C++, Python, Bash, JavaScript, and more |
-| **Defensive / Ops** | Wazuh, Elastic, Docker, Wireshark, Nmap |
+| **Languages** | C, C++, Python, Bash, JavaScript, SQL and more |
+| **Defensive / Ops** | Docker, Wireshark, Nmap |
 | **Infrastructure** | Linux, Git, GitHub Actions |
 
 ## 🎓 Certifications & Labs
