@@ -14,24 +14,30 @@ I bridge the gap between software development and security. I build tools to aut
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-24292F?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-24292F?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-24292F?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-24292F?style=for-the-badge&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=for-the-badge&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-24292F?style=for-the-badge&logo=sqlite&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/c/6E7681" alt="C" title="C" height="34" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/6E7681" alt="C++" title="C++" height="34" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/6E7681" alt="Python" title="Python" height="34" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/6E7681" alt="Bash" title="Bash" height="34" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/6E7681" alt="JavaScript" title="JavaScript" height="34" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL-6E7681?style=for-the-badge" alt="SQL" title="SQL" height="28" />
+</p>
 
 **Defensive / Ops**
 
-![Docker](https://img.shields.io/badge/Docker-24292F?style=for-the-badge&logo=docker&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-24292F?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-24292F?style=for-the-badge&logo=nmap&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/docker/6E7681" alt="Docker" title="Docker" height="34" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/6E7681" alt="Wireshark" title="Wireshark" height="34" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Nmap-6E7681?style=for-the-badge" alt="Nmap" title="Nmap" height="28" />
+</p>
 
 **Infrastructure**
 
-![Linux](https://img.shields.io/badge/Linux-24292F?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-24292F?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/linux/6E7681" alt="Linux" title="Linux" height="34" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/6E7681" alt="Git" title="Git" height="34" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/githubactions/6E7681" alt="GitHub Actions" title="GitHub Actions" height="34" />
+</p>
 
 ## Certifications & Labs
 * **Certifications:** CompTIA Security+
